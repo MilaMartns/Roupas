@@ -1,0 +1,69 @@
+*{
+    padding: 0%;
+    margin: 0%;
+  }
+  .fundo{
+  
+    background-color: #000000;
+      color: #000000;
+      border: 0%;
+      width: 100%;
+      height: 990px;
+      position: relative;
+      overflow: hidden;
+  }
+  
+  .logo {
+  
+    position: absolute;
+    left: 480px;
+    top: 60px;
+    width: 929px;
+    height: 330px;
+  
+  }
+  .cabecalho {
+  
+    position: relative;
+    width: 1950px;
+    height: 160px;
+    flex-shrink: 0;
+  
+    background: linear-gradient(180deg, #FA00FF 0%, rgba(250, 0, 255, 0.00) 0.01%, rgba(248, 4, 229, 0.12) 0.02%, #EC1F1F 54.17%, #000 66.67%);
+  
+  }
+  
+  .explicacao {
+  
+    color: hsl(0, 0%, 100%);
+    text-align: left;
+    font: 400 38px "Jua", sans-serif;
+    position: absolute;
+    left: 650px;
+    top: 368px;
+    width: 600px;
+    height: 50px;
+    
+  }
+  
+  .vestido {
+  
+    padding: 0%;
+    margin: 0%;
+    position: absolute;
+    left: 1081px;
+    width: 389px;
+    top: 478px;
+  }
+  
+  .sapato {
+    
+    padding: 0%;
+    margin: 0%;
+    position: absolute;
+    top: 482px;
+    left: 300px;
+    width: 500px;
+  
+  
+  }
