@@ -52,7 +52,7 @@
     margin: 0%;
     position: absolute;
     left: 1081px;
-    width: 389px;
+    width: 600px;
     top: 478px;
   }
   
@@ -67,3 +67,14 @@
   
   
   }
+  .bolsa {
+
+    padding: 0%;
+    margin: 0%;
+    position: absolute;
+    left: 900px;
+    width: 600px;
+    top: 478px;
+
+  }
+
